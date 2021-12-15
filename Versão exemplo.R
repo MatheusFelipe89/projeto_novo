@@ -1,7 +1,9 @@
-# Versão 1
-# Versão 2
-# Versão 3
+# VersÃ£o 1
+# VersÃ£o 2
+# VersÃ£o 3
 
 #texto
 
 library(tidyverse)
+mutate()
+join()
